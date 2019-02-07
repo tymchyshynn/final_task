@@ -1,0 +1,36 @@
+[2019/02/07 05:50:02][15200][INF] Create folder for test results
+[2019/02/07 05:50:02][15200][INF] Creating driver with option
+[2019/02/07 05:50:06][15200][INF] Create report
+[2019/02/07 05:50:06][15200][INF] Getting the name of current running test to extent report
+[2019/02/07 05:50:06][15200][INF] Start test
+[2019/02/07 05:50:06][15200][INF] Dismis Allert
+[2019/02/07 05:50:08][15200][INF] Close modal popup
+[2019/02/07 05:50:12][15200][INF] Open Updates page
+[2019/02/07 05:50:12][15200][INF] Open base url
+[2019/02/07 05:50:13][15200][INF] Downloal zip file
+[2019/02/07 05:50:13][15200][INF] Test passed
+[2019/02/07 05:50:13][15200][INF] Flush report
+[2019/02/07 05:50:16][15200][INF] Quit driver
+[2019/02/07 05:50:16][15200][INF] Creating driver with option
+[2019/02/07 05:50:20][15200][INF] Create report
+[2019/02/07 05:50:20][15200][INF] Getting the name of current running test to extent report
+[2019/02/07 05:50:20][15200][INF] Start test
+[2019/02/07 05:50:20][15200][INF] Dismis Allert
+[2019/02/07 05:50:22][15200][INF] Close modal popup
+[2019/02/07 05:50:25][15200][INF] Open Services page
+[2019/02/07 05:50:25][15200][INF] Open base url
+[2019/02/07 05:50:25][15200][INF] Verify page title
+[2019/02/07 05:50:25][15200][INF] Test failed
+[2019/02/07 05:50:25][15200][INF] Take a screenshot
+[2019/02/07 05:50:26][15200][INF] Flush report
+[2019/02/07 05:50:26][15200][INF] Quit driver
+[2019/02/07 05:50:26][15200][INF] Creating driver with option
+[2019/02/07 05:50:30][15200][INF] Create report
+[2019/02/07 05:50:30][15200][INF] Getting the name of current running test to extent report
+[2019/02/07 05:50:30][15200][INF] Start test
+[2019/02/07 05:50:30][15200][INF] Dismis Allert
+[2019/02/07 05:50:32][15200][INF] Close modal popup
+[2019/02/07 05:50:35][15200][INF] Test failed
+[2019/02/07 05:50:35][15200][INF] Take a screenshot
+[2019/02/07 05:50:36][15200][INF] Flush report
+[2019/02/07 05:50:36][15200][INF] Quit driver

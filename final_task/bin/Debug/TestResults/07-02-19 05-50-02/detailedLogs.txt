@@ -1,0 +1,45 @@
+[2019/02/07 05:50:02][15200][INF] Create folder for test results
+[2019/02/07 05:50:02][15200][INF] Creating driver with option
+[2019/02/07 05:50:06][15200][INF] Create report
+[2019/02/07 05:50:06][15200][INF] Getting the name of current running test to extent report
+[2019/02/07 05:50:06][15200][INF] Start test
+[2019/02/07 05:50:06][15200][INF] Dismis Allert
+[2019/02/07 05:50:08][15200][INF] Close modal popup
+[2019/02/07 05:50:12][15200][INF] Open Updates page
+[2019/02/07 05:50:12][15200][INF] Open base url
+[2019/02/07 05:50:13][15200][INF] Downloal zip file
+[2019/02/07 05:50:13][15200][INF] Test passed
+[2019/02/07 05:50:13][15200][INF] Flush report
+[2019/02/07 05:50:16][15200][INF] Quit driver
+[2019/02/07 05:50:16][15200][INF] Creating driver with option
+[2019/02/07 05:50:20][15200][INF] Create report
+[2019/02/07 05:50:20][15200][INF] Getting the name of current running test to extent report
+[2019/02/07 05:50:20][15200][INF] Start test
+[2019/02/07 05:50:20][15200][INF] Dismis Allert
+[2019/02/07 05:50:22][15200][INF] Close modal popup
+[2019/02/07 05:50:25][15200][INF] Open Services page
+[2019/02/07 05:50:25][15200][INF] Open base url
+[2019/02/07 05:50:25][15200][INF] Verify page title
+[2019/02/07 05:50:25][15200][INF] Test failed
+[2019/02/07 05:50:25][15200][DBG]   Expected: True
+  But was:  False
+
+[2019/02/07 05:50:25][15200][DBG]    at final_task.Tests.ServicesPageTitleTest.VerifyPageTitle() in C:\Users\vasyl.tymchyshyn\source\repos\final_task\final_task\Tests\ServicesPageTitleTest.cs:line 23
+
+[2019/02/07 05:50:25][15200][INF] Take a screenshot
+[2019/02/07 05:50:26][15200][INF] Flush report
+[2019/02/07 05:50:26][15200][INF] Quit driver
+[2019/02/07 05:50:26][15200][INF] Creating driver with option
+[2019/02/07 05:50:30][15200][INF] Create report
+[2019/02/07 05:50:30][15200][INF] Getting the name of current running test to extent report
+[2019/02/07 05:50:30][15200][INF] Start test
+[2019/02/07 05:50:30][15200][INF] Dismis Allert
+[2019/02/07 05:50:32][15200][INF] Close modal popup
+[2019/02/07 05:50:35][15200][INF] Test failed
+[2019/02/07 05:50:35][15200][DBG] OpenQA.Selenium.WebDriverException : unknown error: Element <div class="mc-closeModal" data-action="close-mc-modal" data-dojo-attach-point="modalClose"></div> is not clickable at point (1062, 118). Other element would receive the click: <div id="onesignal-popover-container" class="onesignal-popover-container onesignal-reset slide-down">...</div>
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.45.615291 (ec3682e3c9061c10f26ea9e5cdcf3c53f3f74387),platform=Windows NT 10.0.17134 x86_64)
+[2019/02/07 05:50:35][15200][DBG]    at final_task.BaseTest.BeforeTest() in C:\Users\vasyl.tymchyshyn\source\repos\final_task\final_task\Tests\BaseTest.cs:line 30
+[2019/02/07 05:50:35][15200][INF] Take a screenshot
+[2019/02/07 05:50:36][15200][INF] Flush report
+[2019/02/07 05:50:36][15200][INF] Quit driver

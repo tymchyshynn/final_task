@@ -1,0 +1,14 @@
+[2019/02/07 05:52:36][26328][INF] Create folder for test results
+[2019/02/07 05:52:36][26328][INF] Creating driver with option
+[2019/02/07 05:52:52][26328][INF] Create report
+[2019/02/07 05:53:44][26328][INF] Getting the name of current running test to extent report
+[2019/02/07 05:53:44][26328][INF] Start test
+[2019/02/07 05:53:50][26328][INF] Dismis Allert
+[2019/02/07 05:53:55][26328][INF] Close modal popup
+[2019/02/07 05:54:25][26328][INF] Open Updates page
+[2019/02/07 05:54:27][26328][INF] Open base url
+[2019/02/07 05:54:35][26328][INF] Downloal zip file
+[2019/02/07 05:54:47][26328][INF] Test passed
+[2019/02/07 05:54:50][26328][INF] Flush report
+[2019/02/07 05:54:59][26328][INF] Quit driver
+[2019/02/07 05:55:07][26328][INF] Creating driver with option
